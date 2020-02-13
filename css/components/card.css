@@ -1,0 +1,25 @@
+.cards{
+    margin: 30px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+.card-product{
+    text-align: center;
+  width: 200px;
+  border: 1px solid rgb(230,230,230);
+  border-radius: 3px;
+  padding: 20px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+}
+
+.card-product img{
+  height: 100px;
+}
+
+.card-product h4 {
+    font-weight: bold;
+}
+
+.card-product p{
+  opacity: 0.5;
+}

@@ -1,0 +1,12 @@
+.footer{
+    background-color: #2C2B2B;
+    text-align: center;
+    padding: 80px;
+}
+
+.footer p{
+    color: #6B6C6C
+}
+.footer p>i{
+    color: red;
+}
